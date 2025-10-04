@@ -15,4 +15,4 @@ This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 Int
 ## Overview
 A centrally controlled wifi remote timer using a Raspberry Pi Pico and programmed with Arduino.
 
-This project is not complete yet.
+This project is not complete yet!
