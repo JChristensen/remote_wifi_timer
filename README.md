@@ -9,7 +9,7 @@ Oct-2025
 This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## See also
-[Link to control program, not available yet.](https://github.com/JChristensen/404)
+[Link to control program, not available yet.](https://github.com/JChristensen/404)  
 [Link to microcontroller firmware, not available yet.](https://github.com/JChristensen/404)
 
 ## Overview
