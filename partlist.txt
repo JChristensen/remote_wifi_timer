@@ -1,6 +1,6 @@
 Partlist
 
-Exported from timer_remote.sch at 10/1/25 3:40 PM
+Exported from timer_remote.sch at 10/7/25 5:30 PM
 
 EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
 
@@ -11,9 +11,11 @@ Part     Value          Device             Package       Library  Sheet
 A1       IRM-02-5       IRM-01             IRM-01        _jc      1
 A2       Pico (2)W      PICOPICO           PICO          _jc      1
 C1       100nF          C-USM0805          M0805         _jc      1
-C2       100uF          C-USM0805          M0805         _jc      1
+C2       10uF           C-USM0805          M0805         _jc      1
 D1       1N4004         DIODE1N400X        1N400X        _jc      1
 D2       1N4004         DIODE1N400X        1N400X        _jc      1
+D3       LED0805        LEDD0805A          D0805A        _jc      1
+D4       LED0805        LEDD0805           D0805         _jc      1
 J1       120VAC         OST-TB-35.08MM     OST-TB-3-0.20 _jc      1
 J2       Low Volt Relay OST-TB-20.20IN     OST-TB-2-0.20 _jc      1
 JP1      Serial         M06LOCK            1X06_LOCK     SparkFun 1
@@ -28,4 +30,6 @@ R4       47k            R-US_M0805         M0805         _jc      1
 R5       470            R-US_M0805         M0805         _jc      1
 R6       470            R-US_M0805         M0805         _jc      1
 R7       470            R-US_M0805         M0805         _jc      1
+R8       1k             R-US_M0805         M0805         _jc      1
+R9       1k             R-US_M0805         M0805         _jc      1
 S1       RESET          10-XXOCT           B3F-10XXOCT   _jc      1
