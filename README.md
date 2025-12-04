@@ -9,10 +9,11 @@ Oct-2025
 This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## See also
-[Link to control program, not available yet.](https://github.com/JChristensen/404)  
-[Link to microcontroller firmware, not available yet.](https://github.com/JChristensen/404)
+[Main control program.](https://github.com/JChristensen/timer_main)  
+[Microcontroller firmware.](https://github.com/JChristensen/timer_remote)  
+[A small PCB for the LEDs and pushbutton.](https://github.com/JChristensen/ac-timer-panel)
 
 ## Overview
-A centrally controlled wifi remote timer using a Raspberry Pi Pico and programmed with Arduino.
+This is the printed circuit board for the remote timer units. For an overall description of the project, see [the main control program repo](https://github.com/JChristensen/timer_main).
 
-This project is not complete yet!
+A Bill of Materials is available in this repo and also [on Mouser.com](https://www.mouser.com/Tools/Project/Share?AccessID=4ef4109354).

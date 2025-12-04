@@ -1,0 +1,20 @@
+Remote WiFi Timer,,,,,,,
+https://github.com/JChristensen/remote_wifi_timer,,,,,,,
+Bill of Materials,,,,,,,
+,,,,,,,
+Part,Qty,Value,Description,Manufacturer,Mfr_Part_ Nbr,Mouser_Part_Nbr,Notes
+A1,1,IRM-02-5,"Power Supply, 2W 5V 400mA",Mean Well,IRM-02-5,709-IRM02-5,
+A2,1,Pico (2)W,Pico2W microcontroller,Raspberry Pi,SC1633,358-SC1633,Or PicoW.
+C1,1,100nF,MLCC 50V 0.1uF X5R or X7R 0805,KAM21BR71H104JT,581-KAM21BR71H104JT,581-KAF21BR71H104JM,Or equivalent.
+C2,1,10uF,MLCC 6.3V 10uF X5R or X7R 0805,KYOCERA AVX,KGM21AR50J106KU,581-KGM21AR50J106KU,Or equivalent.
+"D1, D2",2,1N4004,1A 400V Standard rectifier,On Semi,1N4004RLG,863-1N4004RLG,Or equivalent. D2 optional if K2 not installed.
+"D3, D4",3,LTST-C171YKT,"SMT LED, 0805",LITEON,LTST-C171YKT,859-LTST-C171YKT,Or equivalent. Optional onboard indicators.
+J1,1,1935174,"5mm Terminal Block, 3 Position",Phoenix Contact,1935174,651-1935174,
+J2,1,1935161,"5mm Terminal Block, 2 Position",Phoenix Contact,1935161,651-1935161,
+"K1, K2",2,,Power Relay SPDT Sealed 5VDC,Omron,G5LE-14-DC5,653-G5LE-14-DC5,K2 is optional.
+Q1,1,DMN2053UVT-7,Dual MOSFET,Diodes Incorporated,DMN2053UVT-7,621-DMN2053UVT-7,
+"R1, R3",2,100Ω,"Thick film resistor, 0805, 0.25W, 1%",KOA Speer,RK73H2ATTD1000F,660-RK73H2ATTD1000F,Or equivalent. R3 optional if K2 not installed.
+"R2, R4",2,47kΩ,"Thick film resistor, 0805, 0.25W, 1%",KOA Speer,RK73H2ATTD4702F,660-RK73H2ATTD4702F,Or equivalent.
+"R5, R6, R7",3,470Ω,"Thick film resistor, 0805, 0.25W, 1%",KOA Speer,RK73H2ATTD4700F,660-RK73H2ATTD4700F,Or equivalent.
+"R8, R9",2,1kΩ,"Thick film resistor, 0805, 0.25W, 1%",KOA Speer,RK73H2ATTD1001F,660-RK73H2ATTD1001F,"Or equivalent. Optional if D3, D4 not installed."
+S1,1,,Tactile button switch,Omron,B3F-1022,653-B3F-1022,Or equivalent.
